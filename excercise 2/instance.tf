@@ -7,5 +7,5 @@ resource "aws_instance" "dov-inst" {
  tags = {
     Name    = "Dove-Instance"
 
-
+ }
 }
